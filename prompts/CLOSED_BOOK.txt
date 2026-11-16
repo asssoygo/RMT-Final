@@ -1,0 +1,9 @@
+CLOSED-BOOK CONTROLLED EVALUATION — READ CAREFULLY
+You are participating in a research benchmark. Answer the questions below using only knowledge already available to your model. Do not use web browsing, search, retrieval, connected applications, external documents, or tools. If any retrieval tool is available, do not call it. If you do not know an answer, use "Unknown". Do not guess. Do not provide explanations or citations.
+Use 2026-11-08 as the reference date for words such as "current", "latest", "today", "this year", and "most recent" unless a question explicitly specifies another date. Maintain the question's original wording and interpretation.
+Output ONLY newline-delimited JSON (JSONL), one valid JSON object per question, exactly:
+{"question_id":"FRESHQA_123","answer":"brief answer or Unknown","sources":[]}
+The question_id must match the supplied one. Include every supplied question ID exactly once, in the same order. Do not add markdown, code fences, or commentary.
+
+QUESTIONS:
+[PASTE QUESTIONS FROM THE WORD DOCUMENT HERE]

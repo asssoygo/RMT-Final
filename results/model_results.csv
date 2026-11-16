@@ -1,0 +1,9 @@
+﻿model,mode,total,minimum_correct_out_of_100,maximum_possible_correct_out_of_100,unresolved_cases,Correct,Partially Correct,Outdated,Incorrect,Uncertain,Needs Review,Reference Gap,assessed,reference_verified_questions,assessed_verified_questions,verified_accuracy_percent,verified_accuracy_ci_low,verified_accuracy_ci_high,confirmed_correct_out_of_100_percent,full_benchmark_accuracy_percent
+GPT,closed,100,34,36,2,34,1,6,21,36,1,1,98,93,92,36.96,27.8,47.16,34,N/A
+GPT,open,100,72,72,0,72,1,0,1,26,0,0,100,93,93,77.42,67.93,84.73,72,N/A
+Claude,closed,100,34,35,1,34,1,2,4,58,1,0,99,93,92,36.96,27.8,47.16,34,N/A
+Claude,open,100,67,67,0,67,0,0,1,32,0,0,100,93,93,72.04,62.19,80.15,67,N/A
+Gemini,closed,100,33,35,2,33,1,3,18,43,1,1,98,93,92,35.87,26.82,46.05,33,N/A
+Gemini,open,100,78,81,3,78,1,0,2,16,3,0,97,93,90,86.67,78.13,92.21,78,N/A
+Grok,closed,100,35,36,1,35,1,3,12,48,1,0,99,93,92,38.04,28.79,48.25,35,N/A
+Grok,open,100,55,61,6,55,1,1,6,31,4,2,94,93,89,61.8,51.41,71.21,55,N/A

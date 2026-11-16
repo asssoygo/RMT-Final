@@ -1,0 +1,5 @@
+﻿model,closed_verified_accuracy_percent,open_verified_accuracy_percent,difference_pp_on_separate_assessed_subsets,closed_confirmed_out_of_100,open_confirmed_out_of_100,completeness_note
+GPT,36.96,77.42,40.46,34,72,"Accuracy denominators differ if cases unresolved; comparison is descriptive, not a paired causal estimate."
+Claude,36.96,72.04,35.08,34,67,"Accuracy denominators differ if cases unresolved; comparison is descriptive, not a paired causal estimate."
+Gemini,35.87,86.67,50.8,33,78,"Accuracy denominators differ if cases unresolved; comparison is descriptive, not a paired causal estimate."
+Grok,38.04,61.8,23.76,35,55,"Accuracy denominators differ if cases unresolved; comparison is descriptive, not a paired causal estimate."

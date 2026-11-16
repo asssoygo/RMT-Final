@@ -1,0 +1,5 @@
+﻿model,paired_fully_adjudicated_questions,closed_correct_paired,open_correct_paired,closed_only_correct,open_only_correct,mcnemar_exact_p_value,interpretation
+GPT,92,34,71,9,46,0.0,Only paired classified cases; not whole-benchmark inference if some cases unresolved.
+Claude,92,34,66,5,37,0.0,Only paired classified cases; not whole-benchmark inference if some cases unresolved.
+Gemini,90,33,78,3,48,0.0,Only paired classified cases; not whole-benchmark inference if some cases unresolved.
+Grok,88,34,55,19,40,0.008641,Only paired classified cases; not whole-benchmark inference if some cases unresolved.

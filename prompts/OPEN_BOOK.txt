@@ -1,0 +1,9 @@
+OPEN-BOOK CONTROLLED EVALUATION — READ CAREFULLY
+You are participating in a research benchmark. You MUST use external web search or retrieval to answer each question, using source material current for the reference date 2026-11-08. Do not rely on memorized facts alone. Provide the best verifiable short factual answer. If you cannot verify it, answer "Unknown" rather than guessing. For every non-Unknown answer, provide 1–3 actual URLs that you used and that directly support the answer; never invent URLs or sources.
+Use 2026-11-08 as the reference date for "current", "latest", "today", "this year" or similar, unless the question explicitly specifies another date. If the browsing tool is unavailable, do not pretend it was used; answer "Unknown" and leave sources empty.
+Output ONLY newline-delimited JSON (JSONL), one valid JSON object per question, exactly:
+{"question_id":"FRESHQA_123","answer":"brief answer or Unknown","sources":["https://actual-source.example/path"]}
+The question_id must match the supplied one. Include every supplied question ID exactly once, in the same order. Do not add markdown, code fences, or commentary.
+
+QUESTIONS:
+[PASTE QUESTIONS FROM THE WORD DOCUMENT HERE]

@@ -1,0 +1,9 @@
+﻿model,mode,total_questions,verified_references,graded_answers,correct,partially_correct,outdated,incorrect,uncertain,needs_review,reference_gap,accuracy_on_graded_percent,correct_out_of_100_minimum
+GPT,closed,100,93,92,34,1,6,21,36,1,1,36.96,34
+GPT,open,100,93,93,72,1,0,1,26,0,0,77.42,72
+Claude,closed,100,93,92,34,1,2,4,58,1,0,36.96,34
+Claude,open,100,93,93,67,0,0,1,32,0,0,72.04,67
+Gemini,closed,100,93,92,33,1,3,18,43,1,1,35.87,33
+Gemini,open,100,93,90,78,1,0,2,16,3,0,86.67,78
+Grok,closed,100,93,92,35,1,3,12,48,1,0,38.04,35
+Grok,open,100,93,89,55,1,1,6,31,4,2,61.8,55
